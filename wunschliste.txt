@@ -10,7 +10,7 @@ dimwishlist:item=2715240478&perks=839105230,689005463,3300816228,2978966579 #not
 
 // LODBROK-C
 //notes: LODBROK-C
-dimwishlist:item=2328531378&perks=1392496348,1885400500,1428297954,1015611457
+dimwishlist:item=2328531378&perks=1392496348,1885400500,1428297954,1015611457 #notes:nur zum test by h1
 
 // Springflut ()
 //notes:Inspired by Bogo
