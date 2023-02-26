@@ -3,8 +3,8 @@ description:Thanks to for his contributions.
 
 
 
-description:Originally found at https://
-//Testwaffe
+description:Originally found at https://raw.githubusercontent.com/h1-frankfurt/dim-wunschliste/main/wunschliste.txt
+// Testwaffe
 //notes:only for test
 dimwishlist:item=2715240478&perks=839105230,689005463,3300816228,2978966579 #notes:nur zum test by h1
 //notes:Inspired by Bogo
